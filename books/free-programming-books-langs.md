@@ -598,8 +598,8 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### ColdFusion
 
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) - J. Casimir
-* [Learning coldfusion](https://riptutorial.com/Download/coldfusion.pdf) - Compiled from StackOverflow documentaion (PDF)
 * [Learn CF in a Week](http://learncfinaweek.com)
+* [Learning coldfusion](https://riptutorial.com/Download/coldfusion.pdf) - Compiled from StackOverflow documentaion (PDF)
 
 
 ### Component Pascal
